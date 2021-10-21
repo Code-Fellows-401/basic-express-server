@@ -22,7 +22,11 @@ GitHub: https://github.com/Code-Fellows-401/server-deployment-practice
 
 Embedded UML
 
-![whiteboard](./lib/images/Whiteboard.png)
+WhiteBaord for Lab-02:
+![whiteboard](./lib/images/Whiteboard.png)\
+\
+WhiteBoard for Lab-03:\
+![whiteboard](./lib/images/Whiteboard.png)\
 
 Talk about your routes
 
