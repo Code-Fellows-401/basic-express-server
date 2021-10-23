@@ -3,7 +3,6 @@ build
 temp
 .env
 *.env
-package-lock.json
 aws.yml
 
 # Sequelize CLI
